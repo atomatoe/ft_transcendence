@@ -90,12 +90,27 @@ ________________________________________________________________
 <details>
 <summary>Screenshots</summary>
 <p></p>
+<details>
+<summary>Chat</summary>
 <p align="center"><img src="https://github.com/atomatoe/ft_transcendence/blob/master/screenshots/chat.gif?raw=true" alt="альтернативный текст"></p>
+</details>
+<details>
+<summary>Friends</summary>
 <p align="center"><img src="https://github.com/atomatoe/ft_transcendence/blob/master/screenshots/friends.gif?raw=true" alt="альтернативный текст"></p>
+</details>
+<details>
+<summary>Game</summary>
 <p align="center"><img src="https://github.com/atomatoe/ft_transcendence/blob/master/screenshots/game_start.gif?raw=true" alt="альтернативный текст"></p>
+</details>
+<details>
+<summary>Guild</summary>
 <p align="center"><img src="https://github.com/atomatoe/ft_transcendence/blob/master/screenshots/guild.gif?raw=true" alt="альтернативный текст"></p>
+</details>
+<details>
+<summary>Rating Shop</summary>
 <p align="center"><img src="https://github.com/atomatoe/ft_transcendence/blob/master/screenshots/rating_shop.gif?raw=true" alt="альтернативный текст"></p>
-
+</details>
+  
 ________________________________________________________________
 
 </details>
